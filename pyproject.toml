@@ -6,7 +6,7 @@ authors = ["Justin Anderson <justinwarrenanderson@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-mypy = "0.982"
+mypy = "0.991"
 
 [tool.poetry.dev-dependencies]
 
